@@ -1,0 +1,4 @@
+bin
+obj
+secret.json
+.lock.json
